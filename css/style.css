@@ -1,0 +1,21 @@
+a.thumbnail img {
+  height: 150px;
+  width: auto;
+}
+
+div#a_propos {
+  background-color: rgb(243, 243, 243);
+}
+
+div#contact {
+  background-color: rgb(230, 230, 230);
+}
+
+p {
+  color: #4d4d4d;
+}
+
+.social-icons {
+  color: #4d4d4d;
+  padding: 0;
+}
